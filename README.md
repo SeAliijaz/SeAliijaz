@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muhammad Ali</h1>
-<h3 align="center">A passionate Flutter Developer from Pakistan</h3>
+<h3 align="center">A passionate Flutter Developer from Punjab, Pakistan.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sealiijaz&label=Profile%20views&color=0e75b6&style=flat" alt="sealiijaz" /> </p>
 
@@ -7,13 +7,15 @@
 
 <p align="left"> <a href="https://twitter.com/m_ali_ijaz_" target="blank"><img src="https://img.shields.io/twitter/follow/m_ali_ijaz_?logo=twitter&style=for-the-badge" alt="m_ali_ijaz_" /></a> </p>
 
-- 🔭 I’m currently working on **E-Commerce**
+- 🔭 I’m currently working on **Flutter & Python**
 
 - 🌱 I’m currently learning **Flutter, Python**
 
 - 👯 I’m looking to collaborate on **AI Projects**
 
 - 🤝 I’m looking for help with **Flutter AI/ML**
+
+- 👨‍💻 All of my projects are available at [https://github.com/SeAliijaz](https://github.com/SeAliijaz)
 
 - 💬 Ask me about **Flutter, Dart, Python, C/C++**
 
