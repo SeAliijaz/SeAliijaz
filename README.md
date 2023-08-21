@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/m_ali_ijaz_" target="blank"><img src="https://img.shields.io/twitter/follow/m_ali_ijaz_?logo=twitter&style=for-the-badge" alt="m_ali_ijaz_" /></a> </p>
 
-- 🔭 I’m currently working on **Flutter & Python**
+- 🔭 I’m currently working on **Flutter**
 
-- 🌱 I’m currently learning **Flutter, Python**
+- 🌱 I’m currently learning **Flutter**
 
 - 👯 I’m looking to collaborate on **AI Projects**
 
@@ -17,7 +17,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/SeAliijaz](https://github.com/SeAliijaz)
 
-- 💬 Ask me about **Flutter, Dart, Python, C/C++**
+- 💬 Ask me about **Dart/Flutter, REST API's, Back-End**
 
 - 📫 How to reach me **se.aliijaz@gmail.com**
 
